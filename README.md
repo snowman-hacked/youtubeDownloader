@@ -1,5 +1,7 @@
 # 파이썬을 활용한 유튜브 다운로더
 
+YTDOWN.py가 최종본
+
 dist 디렉터리 안에 exe파일로 실행 가능
 
 PySide6, pytubefix를 활용한 UI 개선 및 다운로드 가능한 실행 파일
