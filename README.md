@@ -6,9 +6,9 @@ dist 디렉터리 안에 exe파일로 실행 가능
 
 PySide6, pytubefix를 활용한 UI 개선 및 다운로드 가능한 실행 파일
 
-Google Cloud API 기능을 통한 URL이 아닌 검색 키워드로 검색하여 다운로드가 가능
+Google Cloud API 기능을 통한 URL이 아닌 검색 키워드로 검색하여 다운로드
 
-Donwload 위치를 먼저 설정 후, 키워드를 검색하여 원하는 영상을 다운받을 수 있음
+Donwload 위치를 먼저 설정 후, 키워드를 검색하여 URL 부분 클릭하면 원하는 영상을 다운받을 수 있음
 
 ## 예시 이미지
 
